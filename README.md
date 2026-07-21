@@ -2,13 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Siam+%F0%9F%91%8B;Full-Stack+Web+Developer;NestJS+%7C+Next.js+%7C+PostgreSQL;Building+in+public%2C+one+repo+at+a+time." alt="Typing SVG" /> 
 </h1> 
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=sisiam08&label=Profile%20Views&color=38BDF8&style=flat" alt="profile views" /> 
-  <a href="https://shahariarsiam.vercel.app"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=flat&logo=vercel&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/sisiam08"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a> 
-  <a href="mailto:mohammadsisiam08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a> 
-</p>
-
 ---
 
 ### 🧭 About Me
@@ -111,6 +104,7 @@
 ### 🌐 Connect
 
 <p align="center">
+  <a href="https://shahariarsiam.vercel.app"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=flat&logo=''&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
