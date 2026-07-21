@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=38BDF8&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sisiam08E&label=Profile%20Views&color=38BDF8&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/sisiam08"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mohammadsisiam08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -106,45 +106,6 @@
 
 ---
 
-### 🚧 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🔗 FounderLink</h4>
-      Startup co-founder matching platform. Backend built on NestJS + PostgreSQL + TypeORM, with a full design suite covering architecture, UI specs, admin panel, and landing page.
-      <br /><br />
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white" />
-    </td>
-    <td width="50%">
-      <h4>🤖 AI Freelance Job Assistant</h4>
-      Browser extension that monitors freelance job boards, analyzes listings with AI, and drafts proposals with a human-in-the-loop review step.
-      <br /><br />
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-> Replace the project links above with your actual repo URLs — wrap each heading in `[FounderLink](https://github.com/you/founderlink)` once the repos are public.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ### 🌐 Connect
 
