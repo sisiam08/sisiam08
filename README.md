@@ -1,9 +1,16 @@
-<h1 align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1877F2,100:FCE35A&height=150&section=header&animation=fadeIn" width="100%" />
+</p>
+
+<h1 align="center">Hi there 👋</h1>
+
+<h3 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Siam+%F0%9F%91%8B;Backend-Focused+Full+Stack+Developer;TypeScript+%7C+NestJS+%7C+Next.js+%7C+PostgreSQL;Building+secure+%26+scalable+applications.;Always+learning+new+technologies."
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=800&lines=Backend-Focused+Full+Stack+Developer;TypeScript+%7C+NestJS+%7C+Next.js+%7C+PostgreSQL;Building+secure+%26+scalable+applications.;Always+learning+new+technologies."
     alt="Typing SVG"
   />
-</h1>
+</h3>
+
 ---
 
 ### 🧭 About Me
@@ -11,7 +18,7 @@
 - 🎓 CSE Student
 - 💻 Backend-Focused Full Stack Developer
 - ⚡ Building with TypeScript, Node.js, NestJS, PostgreSQL & Prisma
-- 🌱 Currently learning System Design, Redis, BullMQ & Docker
+- 🌱 Currently learning System Design, Docker
 - 🤖 Interested in AI-powered Applications
 - 🚀 Passionate about scalable and production-ready backend systems
 
@@ -25,8 +32,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
 **🎨 Frontend**
@@ -52,7 +57,6 @@
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis_(Learning)-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 **🔗 ORM**
@@ -94,10 +98,8 @@
 
 **📚 Currently Learning**
 <p>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/System_Design-4B0082?style=for-the-badge&logo=cachet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -117,7 +119,7 @@
 ### 📈 Current Focus
 
 - 🤖 Developing an AI Freelance Job Assistant Extension
-- 📚 Learning System Design, Redis & BullMQ
+- 📚 Learning System Design, Docker
 - 🤝 Open to Backend collaboration
 
 
@@ -129,4 +131,8 @@
 </a>
   <a href="https://www.linkedin.com/in/sisiam08"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mohammadsisiam08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1877F2,100:FCE35A&height=120&section=footer&animation=fadeIn" width="100%" />
 </p>
