@@ -118,7 +118,7 @@
 
 ### 📈 Current Focus
 
-- 🤖 Developing an AI Freelance Job Assistant Extension
+- 🤖 Developing an Multi-Tenant Healthcare ERP Platform
 - 📚 Learning System Design, Docker
 - 🤝 Open to Backend collaboration
 
