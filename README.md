@@ -18,7 +18,6 @@
 - 🎓 CSE Student
 - 💻 Backend-Focused Full Stack Developer
 - ⚡ Building with TypeScript, Node.js, NestJS, PostgreSQL & Prisma
-- 🌱 Currently learning System Design, Docker
 - 🤖 Interested in AI-powered Applications
 - 🚀 Passionate about scalable and production-ready backend systems
 
@@ -81,11 +80,6 @@
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
 </p>
 
-**🐳 DevOps**
-<p>
-  <img src="https://img.shields.io/badge/Docker_(Learning)-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
 **🛠️ Tools**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -94,12 +88,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma_Studio-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-**📚 Currently Learning**
-<p>
-  <img src="https://img.shields.io/badge/System_Design-4B0082?style=for-the-badge&logo=cachet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -119,7 +107,6 @@
 ### 📈 Current Focus
 
 - 🤖 Developing an Multi-Tenant Healthcare ERP Platform
-- 📚 Learning System Design, Docker
 - 🤝 Open to Backend collaboration
 
 
